@@ -154,6 +154,10 @@ body{
 	top:90px; left:58px;
 	color:#99A3A4;
 }
+@media ( max-width= 600px){
+	body{
+		background-color:red;
+	
 
 	
 	
